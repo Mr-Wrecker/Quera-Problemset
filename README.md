@@ -13,3 +13,4 @@ Challenges We Solved in Quera
 - [Question](https://quera.org/problemset/17902/) - [Code](./Competition/quera_17902/src/main.rs) - `Medium` - Password
 - [Question](https://quera.org/problemset/17244/) - [Code](./Competition/quera_17244/src/main.rs) - `Easy` - Mobile charging
 - [Question](https://quera.org/problemset/10326/) - [Code](./Competition/quera_10326/src/main.rs) - `Easy` - Classy startup
+- [Question](https://quera.org/problemset/8938/) - [Code](./Competition/quera_8938/src/main.rs) - `Easy` - Snap in Shakrestan
